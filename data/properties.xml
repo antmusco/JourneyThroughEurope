@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    The properties in this file are loaded when the JourneyThroughEurope game 
+    application first loads.
+-->
+<properties>
+    <property_list>
+        <property name="DATA_PATH"                  value="file:./data/"></property>
+        <property name="IMG_PATH"                   value="file:./images/"></property>
+        <property name="AUDIO_PATH"                 value="file:./audio/"></property>
+        <property name="ABOUT_GAME_FILE"            value="about.html"></property>
+        <property name="THEME_MUSIC_FILE"           value="theme_music.mp3"></property>
+        <property name="WINDOW_WIDTH"               value="1200"></property>
+        <property name="WINDOW_HEIGHT"              value="1000"></property>
+        <property name="PANE_WIDTH"                 value="800"></property>
+        <property name="PANE_HEIGHT"                value="600"></property>
+        <property name="EDIT_PANE_WIDTH"            value="300"></property>
+        <property name="BUTTON_WIDTH"               value="125"></property>
+        <property name="BUTTON_HEIGHT"              value="25"></property>
+        <property name="MAP_FILE_NAME"              value="map.xml"></property>
+        <property name="LOAD_FILE_NAME"             value="previousGame.jte"></property>
+        <property name="FLIGHT_MAP_FILE"            value="Flight_Plan.JPG"></property>
+        <property name="MAP_GLOBAL_IMAGE"           value="gameplay.jpg"></property>
+        <property name="CITY_NODE_TAG"              value="CityNode"></property>
+        <property name="NAME_TAG"                   value="name"></property>
+        <property name="QUARTER_TAG"                value="quarter"></property>
+        <property name="COLOR_TAG"                  value="color"></property>
+        <property name="FLIGHT_TAG"                 value="isFlight"></property>
+        <property name="XPOS_TAG"                   value="x"></property>
+        <property name="YPOS_TAG"                   value="y"></property>
+        <property name="FLIGHTX_TAG"                value="flightx"></property>
+        <property name="FLIGHTY_TAG"                value="flighty"></property>
+        <property name="CARD_FRONT_TAG"             value="cardFrontFile"></property>
+        <property name="CARD_BACK_TAG"              value="cardBackFile"></property>
+        <property name="EDGES_TAG"                  value="edges"></property>
+        <property name="INSTRUCTIONS_TAG"           value="instructions"></property>
+        <property name="SPLASH_SCREEN_TITLE"        value="Select a Level"></property>
+        <property name="SPLASH_SCREEN_IMAGE"        value="splash.jpg"></property>
+        <property name="PIECE_BLUE"                 value="piece_blue.png"></property>
+        <property name="PIECE_RED"                  value="piece_red.png"></property>
+        <property name="PIECE_BLACK"                value="piece_black.png"></property>
+        <property name="PIECE_WHITE"                value="piece_white.png"></property>
+        <property name="PIECE_YELLOW"               value="piece_yellow.png"></property>
+        <property name="PIECE_GREEN"                value="piece_green.png"></property>
+        <property name="RED_CITY_SELECTED"          value="red_city_selected.png"></property>
+        <property name="RED_CITY_UNSELECTED"        value="red_city_unselected.png"></property>
+        <property name="GREEN_CITY_SELECTED"        value="green_city_selected.png"></property>
+        <property name="GREEN_CITY_UNSELECTED"      value="green_city_unselected.png"></property>
+        <property name="YELLOW_CITY_SELECTED"       value="yellow_city_selected.png"></property>
+        <property name="YELLOW_CITY_UNSELECTED"     value="yellow_city_unselected.png"></property>
+        <property name="BACKGROUND_IMAGE"           value="texture_background.jpg"></property>
+        <property name="INDICATOR_IMAGE"            value="indicator.png"></property>
+        <property name="MUSIC_ON_IMAGE"             value="music_on.png"></property>
+        <property name="MUSIC_OFF_IMAGE"            value="music_off.png"></property>
+        <property name="BACK_IMAGE"                 value="back.png"></property>
+        <property name="UNDO_IMAGE"                 value="undo.png"></property>
+        <property name="STATS_IMAGE"                value="stats.png"></property>
+        <property name="TIME_IMAGE"                 value="time.png"></property>
+        <property name="GAME_EDIT_PANE_BG"          value="game_setup_background.jpg"></property>   
+        <property name="GAME_TITLE_TEXT"            value="Journey Through Europe"></property>
+        <property name="GAME_SUBHEADER_TEXT"        value="The Map Traversing Game!"></property>
+        <property name="NEW_GAME_TEXT"              value="New Game"></property>
+        <property name="LOAD_GAME_TEXT"             value="Load Game"></property>
+        <property name="HELP_TEXT"                  value="Help"></property>
+        <property name="ABOUT_GAME_TEXT"            value="About"></property>
+        <property name="EXIT_TEXT"                  value="Exit"></property>
+        <property name="BACK_TEXT"                  value="Back"></property>
+        <property name="PLAY_TEXT"                  value="Play!"></property>
+        <property name="LETTERS_FONT_FAMILY_TEXT"   value="monospaced"></property>
+        <property name="LETTERS_FONT_SIZE_TEXT"     value="24"></property>
+        <property name="DEFAULT_YES_TEXT"           value="Yes"></property>
+        <property name="DEFAULT_NO_TEXT"            value="No"></property>
+        <property name="DEFAULT_EXIT_TEXT"          value="Are you sure you wish to Quit?"></property>
+        <property name="MAX_PLAYERS"                value="6"></property>
+        <property name="GAME_MUSIC_MP3"             value="background.mp3"></property>
+        <property name="GAME_OVER_MP3"              value="gameOver.mp3"></property>       
+    </property_list>
+</properties>

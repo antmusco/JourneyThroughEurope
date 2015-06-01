@@ -1,0 +1,68 @@
+/**
+ * Styles for
+ * 
+ * @author 
+ *          Anthony G. Musco
+ * <dt><b>Date Created</b><dd>
+ *          Oct-22-2014
+ * <dt><b>Class</b><dd>
+ *          CSE 219
+ */
+
+.button {
+    
+    -fx-background-color: 
+        #000000,
+        linear-gradient(#7ebcea, #2f4b8f),
+        linear-gradient(#426ab7, #263e75),
+        linear-gradient(#395cab, #223768);
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,2,2;
+    -fx-padding: 12 30 12 30;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+    
+}
+
+.button:hover {
+    
+    -fx-background-color: 
+        linear-gradient(#f2f2f2, #d6d6d6),
+        linear-gradient(#fcfcfc 0%, #d9d9d9 20%, #d6d6d6 100%),
+        linear-gradient(#dddddd 0%, #f6f6f6 50%);
+    -fx-background-radius: 8,7,6;
+    -fx-background-insets: 0,1,2;
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 ); 
+    
+}
+
+.button:pressed {
+    
+    -fx-background-color: 
+        #000000,
+        linear-gradient(#7ebcea, #2f4b8f),
+        linear-gradient(#426ab7, #263e75),
+        linear-gradient(#395cab, #223768);
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,2,2;
+    -fx-padding: 12 30 12 30;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;  
+    
+}
+
+.label {
+    
+    -fx-text-fill: black;
+    -fx-font-family: "Book Antiqua" ;
+    -fx-font-size: 36px;
+    -fx-padding: 10 10 10 10;     
+    
+}
+
+.bordered-canvas {
+    
+    
+    
+}
